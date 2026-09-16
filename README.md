@@ -1,2 +1,2 @@
-# eksperiment-gif
-gifovi po skupinama
+# eksperiment-stimulusi
+stimulusi po skupinama
